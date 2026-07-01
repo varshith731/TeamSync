@@ -41,10 +41,7 @@ This project leverages the latest tools and frameworks for modern development:
 
 ## 🔄 Getting Started  
 
-### 1. Watch the Video  
-Follow along step-by-step by watching the full guide on YouTube.  
-
-### 2. Set Up Environment Variables  
+### 1. Set Up Environment Variables  
 
 Create a `.env` file in the root of your project and configure these variables:  
 
@@ -63,7 +60,7 @@ FRONTEND_ORIGIN=http://localhost:3000
 FRONTEND_GOOGLE_CALLBACK_URL=http://localhost:3000/google/callback
 ```  
 
-### 3. Run the Application  
+### 2. Run the Application  
 
 Install dependencies and start the development server:  
 
